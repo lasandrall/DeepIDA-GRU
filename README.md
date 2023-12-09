@@ -5,6 +5,8 @@ To overcome these limitations, we have developed a pipeline that harnesses the p
 
 This pipeline includes **variable selection/ranking using linear and nonlinear methods**, **feature extraction using functional principal component analysis and Euler characteristics**, and **joint integration and classification using dense feed-forward networks and recurrent neural networks**.
 
+Refer to the function **pipeline_example.py** for a demonstration of how to use this algorithm.
+
 If you have any questions or suggestions for improvements, please email: ssafo@umn.edu 
 
 Sarthak Jain and Sandra E. Safo **A  deep learning pipeline for  cross-sectional and longitudinal multiview data integration** (2023) Submitted
