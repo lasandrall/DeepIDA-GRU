@@ -10,5 +10,9 @@ Refer to the function **pipeline_example.py** for a demonstration of how to use 
 If you have any questions or suggestions for improvements, please email: ssafo@umn.edu 
 
 Sarthak Jain and Sandra E. Safo **A  deep learning pipeline for  cross-sectional and longitudinal multiview data integration** (2023) Submitted
+https://arxiv.org/pdf/2312.01238.pdf
+
+
+
 
 <img width="811" alt="DeepIDA_v4 (3)" src="https://github.com/lasandrall/DeepIDA-GRU/assets/29103607/d63183dc-3f08-4fb7-be42-5097761d0181">
